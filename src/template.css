@@ -1,0 +1,38 @@
+@CHARSET "UTF-8";
+
+#header{
+	background-color: gray;
+	color: red;
+	text-align: center;
+	padding: 5px;
+}
+
+#nev{
+	line-height: 30px;
+	background-color: orange;
+	height:500px;
+    width:100px;
+    float:left;
+    padding:5px;
+}
+
+#section{
+ 	width:800px;
+    float:left;
+    padding:10px;
+    font-family: monospace;	
+	
+}
+
+#footer{
+	background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+    clear: both;
+}
+
+.test{
+	
+	text-transform: uppercase;
+}
